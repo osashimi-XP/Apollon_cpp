@@ -24,4 +24,5 @@
 Apollon is released under the [MIT License](http://opensource.org/licenses/MIT).
 
 Copyright &copy; 2020- Susumu Tanaka
+
 Copyright &copy; 2025- Yo Tobetto
