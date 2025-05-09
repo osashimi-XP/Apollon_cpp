@@ -1,0 +1,53 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-std=gnu++11",
+      "-O2",
+      "-I./lib",
+      "-I./src",
+      "-o",
+      "src/solver/rocket_stage.o",
+      "src/solver/rocket_stage.cpp"
+    ],
+    "directory": "/home/myakumyaku79/Apollon_cpp",
+    "file": "/home/myakumyaku79/Apollon_cpp/src/solver/rocket_stage.cpp",
+    "output": "/home/myakumyaku79/Apollon_cpp/src/solver/rocket_stage.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-std=gnu++11",
+      "-O2",
+      "-I./lib",
+      "-I./src",
+      "-o",
+      "src/solver/trajectory_solver.o",
+      "src/solver/trajectory_solver.cpp"
+    ],
+    "directory": "/home/myakumyaku79/Apollon_cpp",
+    "file": "/home/myakumyaku79/Apollon_cpp/src/solver/trajectory_solver.cpp",
+    "output": "/home/myakumyaku79/Apollon_cpp/src/solver/trajectory_solver.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-std=gnu++11",
+      "-O2",
+      "-I./lib",
+      "-I./src",
+      "-o",
+      "src/ForRocket.o",
+      "src/ForRocket.cpp"
+    ],
+    "directory": "/home/myakumyaku79/Apollon_cpp",
+    "file": "/home/myakumyaku79/Apollon_cpp/src/ForRocket.cpp",
+    "output": "/home/myakumyaku79/Apollon_cpp/src/ForRocket.o"
+  }
+]
