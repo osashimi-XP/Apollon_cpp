@@ -4,6 +4,7 @@
 // Creation Date   : 2019/11/08
 //
 // Copyright (c) 2019 Susumu Tanaka. All rights reserved.
+// Copyright (c) 2025 Yo Tobetto. All rights reserved.
 // ******************************************************
 
 #include "datetime.hpp"

@@ -4,6 +4,7 @@
 // Creation Date   : 2019/10/26
 //
 // Copyright (c) 2019 Susumu Tanaka. All rights reserved.
+// Copyright (c) 2025 Yo Tobetto. All rights reserved.
 // ******************************************************
 
 #include "environment/air.hpp"

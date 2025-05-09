@@ -4,6 +4,7 @@
 // Creation Date   : 2020/01/27
 //
 // Copyright (c) 2020 Susumu Tanaka. All rights reserved.
+// Copyright (c) 2025 Yo Tobetto. All rights reserved.
 // ******************************************************
 
 #ifndef ROCKETSTAGE_HPP_

@@ -4,6 +4,7 @@
 // Creation Date   : 2019/10/20
 //
 // Copyright © 2019 Susumu Tanaka. All rights reserved.
+// Copyright (c) 2025 Yo Tobetto. All rights reserved.
 // ******************************************************
 
 #ifndef DYNAMICS6DOFAERO_HPP_

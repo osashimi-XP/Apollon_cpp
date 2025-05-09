@@ -4,6 +4,7 @@
 // Creation Date   : 2020/02/01
 //
 // Copyright (c) 2020 Susumu Tanaka. All rights reserved.
+// Copyright (c) 2025 Yo Tobetto. All rights reserved.
 // ******************************************************
 
 #include "dynamics_3dof_onlauncher.hpp"
