@@ -20,8 +20,8 @@
 * [json @nlohman](https://github.com/nlohmann/json)
 * [Google Test](https://github.com/google/googletest)
 
-
 ## License
-ForRocket is released under the [MIT License](http://opensource.org/licenses/MIT).
+Apollon is released under the [MIT License](http://opensource.org/licenses/MIT).
 
 Copyright &copy; 2020- Susumu Tanaka
+Copyright &copy; 2025- Yo Tobetto
