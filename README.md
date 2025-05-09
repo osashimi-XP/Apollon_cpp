@@ -1,30 +1,10 @@
-# ForRocket - 6DoF rocket trajectory solver
+# Apollon - ForRocket based 6DoF rocket trajectory solver
 <img src="https://user-images.githubusercontent.com/8069773/76425916-a54e6a00-63ed-11ea-8cc0-0d63b9b2cf9a.png" width="400px">
 
 ## Feature
-* Calculate 6 degree-of-freedom rocket trajectory.
-* Liquid, Solid and Hybrid ... no fixed type of rocket engine.
-* Configurable sequence of event. Cutoff, Separation, despin, jettson, etc...
-* Easy input by json file and easy post-process by csv file.
-* User easily extend by using input json and output csv.
-* Prvide only trajectory solver. Satisfy extend tool.
-
-## Testing Feature
-* Attitude control flight
-* Multi-stage flight
-
-## Getting Started
-### Installation
-```sh
-$ git clone https://github.com/sus304/ForRocket.git
-$ cd ForRocket
-$ make release
-```
-
-### Sample Execute
-```sh
-$ ForRocket sample_solver_config.json
-```
+* Simulate 6 degree-of-freedom rocket trajectory.
+* Can also simulate 6 degree-of-freedom parachute trajectory.
+* Improved airdynamics model
 
 ### Input file
 * solver_config.json - launch configuration and stages info
