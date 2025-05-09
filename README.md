@@ -1,5 +1,5 @@
 # Apollon - ForRocket based 6DoF rocket trajectory solver
-<img src="https://user-images.githubusercontent.com/8069773/76425916-a54e6a00-63ed-11ea-8cc0-0d63b9b2cf9a.png" width="400px">
+<img src="./Apollon_logo.jpg" width="400px">
 
 ## Feature
 * Simulate 6 degree-of-freedom rocket trajectory.
@@ -24,4 +24,5 @@
 Apollon is released under the [MIT License](http://opensource.org/licenses/MIT).
 
 Copyright &copy; 2020- Susumu Tanaka
+
 Copyright &copy; 2025- Yo Tobetto
